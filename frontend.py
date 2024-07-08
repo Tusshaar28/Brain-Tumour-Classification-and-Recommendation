@@ -69,4 +69,6 @@ if uploaded_file is not None:
     st.write(f"Recommendation : {recommendation}")
 
 
-st.write("Built By Tushar Sharma\nGithub : Tusshaar28")
+st.write("Built By Tushar Sharma")
+st.markdown("[GitHub Profile](https://github.com/Tusshaar28)")
+
