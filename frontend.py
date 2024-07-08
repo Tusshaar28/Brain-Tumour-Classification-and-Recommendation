@@ -74,9 +74,9 @@ st.write("")
 st.write("")
 st.markdown(
     """
-    <div style="text-align: right; margin-top:20px margin-bottom:0px">
+    <div style="text-align: right;">
         <p style="font-size:20px">By : Tushar Sharma</p>
-        <p><a href="https://github.com/Tusshaar28">GitHub Profile</a></p>
+        <p><a href="https://github.com/Tusshaar28">GitHub</a></p>
     </div>
     """,
     unsafe_allow_html=True
