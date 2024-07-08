@@ -1,0 +1,37 @@
+[glioma]
+pilocytic_high = Immediate consultation with an oncologist, MRI, and possible biopsy.
+pilocytic_medium = Consultation with a specialist within a week, MRI.
+pilocytic_low = Consultation with a specialist, regular monitoring, and MRI.
+diffuse_high = Immediate consultation with an oncologist, MRI, and possible biopsy.
+diffuse_medium = Consultation with a specialist within a week, MRI.
+diffuse_low = Consultation with a specialist, regular monitoring, and MRI.
+anaplastic_high = Immediate consultation with an oncologist, MRI, and possible biopsy.
+anaplastic_medium = Consultation with a specialist within a week, MRI.
+anaplastic_low = Consultation with a specialist, regular monitoring, and MRI.
+glioblastoma_high = Immediate consultation with an oncologist, MRI, and possible biopsy.
+glioblastoma_medium = Consultation with a specialist within a week, MRI.
+glioblastoma_low = Consultation with a specialist, regular monitoring, and MRI.
+
+[meningioma]
+grade_i_high = Consultation with a specialist within a week, MRI, and possible surgery.
+grade_i_medium = Regular monitoring and MRI.
+grade_i_low = Routine check-ups and monitoring.
+grade_ii_high = Consultation with a specialist within a week, MRI, and possible surgery.
+grade_ii_medium = Regular monitoring and MRI.
+grade_ii_low = Routine check-ups and monitoring.
+grade_iii_high = Consultation with a specialist within a week, MRI, and possible surgery.
+grade_iii_medium = Regular monitoring and MRI.
+grade_iii_low = Routine check-ups and monitoring.
+
+[notumor]
+high = No tumor detected, maintain a healthy lifestyle.
+medium = No tumor detected, consider follow-up check in 6 months.
+low = No tumor detected, but consult a doctor if symptoms persist.
+
+[pituitary]
+microadenoma_high = Consultation with a specialist, regular check-ups.
+microadenoma_medium = Regular monitoring and check-ups.
+microadenoma_low = Routine check-ups and monitoring.
+macroadenoma_high = Consultation with a specialist, regular check-ups.
+macroadenoma_medium = Regular monitoring and check-ups.
+macroadenoma_low = Routine check-ups and monitoring.
