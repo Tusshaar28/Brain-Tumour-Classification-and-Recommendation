@@ -75,7 +75,7 @@ st.write("")
 st.markdown(
     """
     <div style="text-align: right;">
-        <p>Built By Tushar Sharma</p>
+        <p style="font-size:20px">By : Tushar Sharma</p>
         <p><a href="https://github.com/Tusshaar28">GitHub Profile</a></p>
     </div>
     """,
