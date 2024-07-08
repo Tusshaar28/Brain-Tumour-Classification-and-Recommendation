@@ -68,7 +68,10 @@ if uploaded_file is not None:
     st.write(f"Prediction: {predicted_class}")
     st.write(f"Recommendation : {recommendation}")
 
-
+st.write("")
+st.write("")
+st.write("")
+st.write("")
 st.write("Built By Tushar Sharma")
 st.markdown("[GitHub Profile](https://github.com/Tusshaar28)")
 
