@@ -67,3 +67,6 @@ if uploaded_file is not None:
     st.image(uploaded_image, use_column_width=True)
     st.write(f"Prediction: {predicted_class}")
     st.write(f"Recommendation : {recommendation}")
+
+
+st.write("Built By Tushar Sharma\nGithub : Tusshaar28")
