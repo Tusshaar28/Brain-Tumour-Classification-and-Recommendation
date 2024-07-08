@@ -5,11 +5,9 @@ from keras.src.layers import BatchNormalization
 
 os.environ['TF_ENABLE_ONEDNN_OPTS']='0'
 os.environ['TF_CPP_MIN_LOG_LEVEL']='2'
-import numpy as np
-import tensorflow as tf
 from keras.preprocessing.image import ImageDataGenerator as im
 
-#print(tf.__version__)
+
 #Augmenting the Data
 traindata = im(rescale=1./255,
                zoom_range=0.25,
